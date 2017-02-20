@@ -1,15 +1,14 @@
 # Introduction to Computer Science Principles
 
-<!-- TODO: Name of the course: Intro to CSP is good in terms of
-aligning the class with other standards, but we need a more exciting
-name to attract students! -->
-
-Welcome to the new TEALS Intro CS Curriculum!
+Welcome to the Intro CS Curriculum with micro:bit!
 
 ## About this curriculum
 
 ### License
 This curriculum is licensed under the Creative Commons Attribution Non-Commercial Share-alike License (http://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.
+
+### Attribution
+This curriculum is based on the TEALS Introduction to Computer Science Principles (https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles)
 
 ### Philosophy
 
@@ -20,7 +19,7 @@ This curriculum advocates a "hands-on" learning approach in which students' prim
 Because this curriculum was designed to be used in a wide variety of classrooms, we have made as few assumptions as possible.  In particular, the curriculum does not depend on any specific technologies or resources in the classroom other than computers with reliable internet access.  This curriculum is also designed without any student homework assignment, as not all classes will have students who can reliably access a computer with internet access at home.  For classes where home computer access is not an issue, some amount of lab work can be reassigned as homework.
 
 ###Resources
-This curriculum is designed for use with the Snap! programming language designed at the University of California, Berkeley.  Snap! is a visual programming language designed to allow students to focus on concepts and skills rather than syntax when learning to program.  Snap! is an extension and reimplementation of Scratch, designed at MIT, and many Scratch lessons and programs can be easily adapted to Snap!  The following resources are available to support use of Snap! in this curriculum:
+This curriculum is designed for use with the Microsoft's Programming Experience Toolkit! A programming language designed by Microsoft. PXT is a visual programming language designed to allow students to focus on concepts and skills rather than syntax when learning to program.  Snap! is an extension and reimplementation of Scratch, designed at MIT, and many Scratch lessons and programs can be easily adapted to Snap!  The following resources are available to support use of Snap! in this curriculum:
 - The Snap! Reference Manual: http://snap.berkeley.edu/SnapManual.pdf
 - Snap! examples and extensions (including using hardware devices with Snap!): http://snap.berkeley.edu/#help-examples
 - ScratchEd online community for Scratch educators: https://scratch.mit.edu/educators/
