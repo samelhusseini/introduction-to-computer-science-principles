@@ -23,15 +23,14 @@ Students will be able to...
 | 10 minutes | Course staff introductions                  |
 | 10 minutes | Icebreakers                                 |
 | 10 minutes | Course outline                              |
-| 15 minutes | Course norms, procedures, and administrivia |
+| 15 minutes | Course norms, procedures, and administration |
 
 ## Instructor's Notes
       
 -   Utilize the plan developed with your teaching team for the first day of school.
     -   The pacing guide above is a very broad suggestion.  You should adapt (or ignore) as necessary to fit your team's plan.
 -   Suggested topics to cover:
-    -   Names and backgrounds of TEALS team members
-    -   Brief background on TEALS program (i.e. "Why are there so many adults here?")
+    -   Names and backgrounds of team members
     -   Classroom rules, behavior expectations, grading guidelines, late work policies, etc.
     -   Academic Integrity/Cheating policy
     -   Introductions/Icebreakers with students
