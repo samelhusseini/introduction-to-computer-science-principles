@@ -35,6 +35,11 @@ Students will be able to...
 ## Using Zoom Blocks
 
 
+{% blocks %}
+
+basic.showString("Hello world");
+
+{% endblocks %}
 
 ![Zoom Blocks](ZoomBlocks.PNG)
 
