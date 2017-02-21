@@ -34,7 +34,9 @@ Students will be able to...
 
 ## Using Zoom Blocks
 
-{% myTag %}World{% endmyTag %}
+{% blocks %}
+basic.showString("Hello");
+{% endblocks %}
 
 {% exercise %}
 Define a variable `x` equal to 10.
