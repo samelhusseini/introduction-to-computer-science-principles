@@ -38,7 +38,7 @@ Students will be able to...
 input.onButtonPressed(Button.A, () => {
     basic.showString("Hello!")
 })
-{% sim %}
+{% endsim %}
 
 {% editor %} {% endeditor %}
 
