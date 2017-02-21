@@ -34,11 +34,13 @@ Students will be able to...
 
 ## Using Zoom Blocks
 
-{% blocks %}
+{% sim %}
 input.onButtonPressed(Button.A, () => {
     basic.showString("Hello!")
 })
-{% endblocks %}
+{% sim %}
+
+{% editor %} {% endeditor %}
 
 ![Zoom Blocks](ZoomBlocks.PNG)
 
