@@ -35,7 +35,9 @@ Students will be able to...
 ## Using Zoom Blocks
 
 {% blocks %}
-basic.showString("Hello");
+input.onButtonPressed(Button.A, () => {
+    basic.showString("Hello!")
+})
 {% endblocks %}
 
 ![Zoom Blocks](ZoomBlocks.PNG)
