@@ -40,7 +40,11 @@ input.onButtonPressed(Button.A, () => {
 })
 {% endsim %}
 
-{% editor %} {% endeditor %}
+{% editor %} 
+input.onButtonPressed(Button.A, () => {
+    basic.showString("Hello!")
+})
+{% endeditor %}
 
 ![Zoom Blocks](ZoomBlocks.PNG)
 
