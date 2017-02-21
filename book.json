@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "mathjax"
+        "mathjax",
+        "gitbook-plugin-pxt@git+https://github.com/samelhusseini/gitbook-plugin-pxt.git"
     ],
     "pluginsConfig": {}
 }
