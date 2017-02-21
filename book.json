@@ -1,6 +1,7 @@
 {
     "plugins": [
         "mathjax",
+        "exercises",
         "pxt@git+https://github.com/samelhusseini/plugin.git"
     ],
     "pluginsConfig": {}
