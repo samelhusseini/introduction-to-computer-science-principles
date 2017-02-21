@@ -36,6 +36,22 @@ Students will be able to...
 
 {% myTag %}World{% endmyTag %}
 
+{% exercise %}
+Define a variable `x` equal to 10.
+{% initial %}
+var x =
+{% solution %}
+var x = 10;
+{% validation %}
+assert(x == 10);
+{% context %}
+// This is context code available everywhere
+// The user will be able to call magicFunc in his code
+function magicFunc() {
+    return 3;
+}
+{% endexercise %}
+
 ![Zoom Blocks](ZoomBlocks.PNG)
 
 Zoom Blocks are a useful tool to increase the readability of code in Snap. To access the Zoom Blocks feature, simply go up to settings in the upper right, and select the second option in the list, Zoom Blocks. Once selected, an interface pops up which allows you to increase the zoom on your code and shows you a preview.
