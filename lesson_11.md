@@ -34,6 +34,7 @@ Students will be able to...
 
 ## Using Zoom Blocks
 
+{% myTag %}World{% endMyTag %}
 
 {% blocks %}
 
