@@ -1,7 +1,7 @@
 {
     "plugins": [
         "mathjax",
-        "https://github.com/samelhusseini/plugin.git"
+        "gitbook-plugin@git+https://github.com/samelhusseini/plugin.git"
     ],
     "pluginsConfig": {}
 }
