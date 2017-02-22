@@ -41,7 +41,7 @@ input.onButtonPressed(Button.A, () => {
 {% endsim %}
 
 {% blocks %}
-basic.showString("Hello!")
+basic.showNumber(0)
 {% endblocks %}
 
 {% docs %}
