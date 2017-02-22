@@ -4,5 +4,7 @@
         "exercises",
         "pxt@git+https://github.com/samelhusseini/gitbook-plugin-pxt.git"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "pxtsite": "adafruit.pxt.io"
+    }
 }
