@@ -5,13 +5,13 @@
 
 Students will be able to...
 
--   Name the categories of blocks in SNAP and describe what the blocks in each category do
--   Describe the function of several common SNAP blocks (see [lab](lab_12.md) for specific blocks)
--   Be able to use common blocks to build simple SNAP programs (see [lab](lab_12.md) for specific blocks)
+-   Name the categories of blocks in PXT and describe what the blocks in each category do
+-   Describe the function of several common PXT blocks (see [lab](lab_12.md) for specific blocks)
+-   Be able to use common blocks to build simple PXT programs (see [lab](lab_12.md) for specific blocks)
 
 ## Materials/Preparation
 
--   [Lab 1.2](lab_12.md) handout (SNAP Scavenger Hunt) ([Download in Word](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20Word/Lab%201.2%20SNAP%20Scavenger%20Hunt.docx)) ([Link to PDF](https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles/content/Unit%201%20PDF/Lab%201.2%20SNAP%20Scavenger%20Hunt.pdf))
+-   [Lab 1.2](lab_12.md) handout (PXT Scavenger Hunt)
 -   Read through the handout so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -20,14 +20,14 @@ Students will be able to...
 | ---------- | --------------------------------------------- |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Introductory discussion                       |
-| 25 minutes | "SNAP Scavenger Hunt" Lab activity            |
+| 25 minutes | "PXT Scavenger Hunt" Lab activity            |
 | 15 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
 
 1.  Introductory discussion
 
-    -   Review the basics of SNAP from the previous lesson
+    -   Review the basics of PXT from the previous lesson
         -   Ensure that students can:
             -   Define "block" and "script" 
             -   Describe how to build a script (snapping blocks together)
@@ -37,8 +37,8 @@ Students will be able to...
 
 2.  Activity
 
-    -   Individually or in pairs, have students work through the ["SNAP Scavenger Hunt"](lab_12.md) activity
-        -   Students should turn in answers to all questions and SNAP programs for the final problems
+    -   Individually or in pairs, have students work through the ["PXT Scavenger Hunt"](lab_12.md) activity
+        -   Students should turn in answers to all questions and PXT programs for the final problems
 
 3.  Debrief
     -   Go through each question or prompt in parts 1 and 2 and ask students to share their answer
