@@ -40,10 +40,6 @@ input.onButtonPressed(Button.A, () => {
 })
 {% endsim %}
 
-{% blocks %}
-basic.showNumber(0)
-{% endblocks %}
-
 {% docs %}
 ```blocks
 input.onButtonPressed(Button.A, () => {
