@@ -44,11 +44,13 @@ input.onButtonPressed(Button.A, () => {
 basic.showString("Hello!")
 {% endblocks %}
 
-{% blocks %}
+{% docs %}
+```blocks
 input.onButtonPressed(Button.A, () => {
     basic.showString("Hello!")
 })
-{% endblocks %}
+```
+{% enddocs %}
 
 ![Zoom Blocks](ZoomBlocks.PNG)
 
