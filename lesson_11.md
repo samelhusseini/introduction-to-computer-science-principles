@@ -41,6 +41,10 @@ input.onButtonPressed(Button.A, () => {
 {% endsim %}
 
 {% blocks %}
+basic.showString("Hello!")
+{% endblocks %}
+
+{% blocks %}
 input.onButtonPressed(Button.A, () => {
     basic.showString("Hello!")
 })
