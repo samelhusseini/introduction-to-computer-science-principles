@@ -6,7 +6,7 @@
     ],
     "pluginsConfig": {
         "pxt": {
-            "base": "adafruit.pxt.io"
+            "base": "pxt.microbit.org"
         }
     }
 }
