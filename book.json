@@ -5,6 +5,8 @@
         "pxt@git+https://github.com/samelhusseini/gitbook-plugin-pxt.git"
     ],
     "pluginsConfig": {
-        "pxtsite": "adafruit.pxt.io"
+        "pxt": {
+            "base": "adafruit.pxt.io"
+        }
     }
 }
