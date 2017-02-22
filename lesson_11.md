@@ -40,6 +40,12 @@ input.onButtonPressed(Button.A, () => {
 })
 {% endsim %}
 
+{% blocks %}
+input.onButtonPressed(Button.A, () => {
+    basic.showString("Hello!")
+})
+{% endblocks %}
+
 {% editor %} 
 input.onButtonPressed(Button.A, () => {
     basic.showString("Hello!")
