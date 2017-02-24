@@ -1,4 +1,8 @@
 {
+    "variables": [
+        "platform": "PXT",
+        "board": "micro:bit"
+    ],
     "plugins": [
         "mathjax",
         "exercises",
