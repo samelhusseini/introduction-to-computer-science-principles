@@ -5,15 +5,15 @@
 
 Students will be able to...
 
--   Define and identify "blocks," "scripts," "simulator," and "the microbit" in PXT.
--   Write simple PXT programs
--   Describe what simple PXT programs do without executing the code
+-   Define and identify "blocks," "scripts," "simulator," and "the microbit" in {{config.[platform]}}.
+-   Write simple {{config.[platform]}} programs
+-   Describe what simple {{config.[platform]}} programs do without executing the code
 
 ## Materials/Preparation
 
--   [Lab 1.1 handout](lab_11.md) (Welcome to PXT!)
+-   [Lab 1.1 handout](lab_11.md) (Welcome to {{config.[platform]}}!)
 
--   Ensure that all classroom computers can access <https://pxt.microbit.org/>.
+-   Ensure that all classroom computers can access <{{config.[website]}}>.
 -   Read through the lab so that you are familiar with the requirements and can assist students as needed
 
 ## Pacing Guide
@@ -24,7 +24,7 @@ Students will be able to...
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Introductory discussion                       |
 | 10 minutes | Lab walkthrough                               |
-| 20 minutes | "Welcome to PXT!" Lab activity               |
+| 20 minutes | "Welcome to {{config.[platform]}}!" Lab activity               |
 | 10 minutes | Demonstrate turn-in procedures and wrap-up    |
 | _Day 2_    |                                               |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
