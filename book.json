@@ -1,7 +1,8 @@
 {
     "variables": {
-        "organization": "Microsoft",
+        "platformorganization": "Microsoft",
         "platform": "PXT",
+        "platformorganization": "Microsoft",
         "board": "micro:bit",
         "website": "https://pxt.microbit.org"
     },
