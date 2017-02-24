@@ -1,17 +1,17 @@
 <!--- REVISED -->
-# Lesson 1.1: Welcome to {{config.[platform]}}
+# Lesson 1.1: Welcome to {{book.platform}}
 
 ## Learning Objectives
 
 Students will be able to...
 
--   Define and identify "blocks," "scripts," "simulator," and "the microbit" in {{config.[platform]}}.
--   Write simple {{config.[platform]}} programs
--   Describe what simple {{config.[platform]}} programs do without executing the code
+-   Define and identify "blocks," "scripts," "simulator," and "the microbit" in {{book.platform}}.
+-   Write simple {{book.platform}} programs
+-   Describe what simple {{book.platform}} programs do without executing the code
 
 ## Materials/Preparation
 
--   [Lab 1.1 handout](lab_11.md) (Welcome to {{config.[platform]}}!)
+-   [Lab 1.1 handout](lab_11.md) (Welcome to {{book.platform}}!)
 
 -   Ensure that all classroom computers can access <{{config.[website]}}>.
 -   Read through the lab so that you are familiar with the requirements and can assist students as needed
@@ -24,7 +24,7 @@ Students will be able to...
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Introductory discussion                       |
 | 10 minutes | Lab walkthrough                               |
-| 20 minutes | "Welcome to {{config.[platform]}}!" Lab activity               |
+| 20 minutes | "Welcome to {{book.platform}}!" Lab activity               |
 | 10 minutes | Demonstrate turn-in procedures and wrap-up    |
 | _Day 2_    |                                               |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
