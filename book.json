@@ -2,7 +2,7 @@
     "variables": [
         "platform": "PXT",
         "board": "microbit",
-        "website": "https://pxt.microbit.org"
+        "website": "pxt.microbit.org"
     ],
     "plugins": [
         "mathjax",
