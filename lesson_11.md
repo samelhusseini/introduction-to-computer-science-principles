@@ -1,19 +1,19 @@
 <!--- REVISED -->
-# Lesson 1.1: Welcome to SNAP
+# Lesson 1.1: Welcome to PXT
 
 ## Learning Objectives
 
 Students will be able to...
 
--   Define and identify "blocks," "scripts," "sprites," and "the stage" in SNAP.
--   Write simple SNAP programs
--   Describe what simple SNAP programs do without executing the code
+-   Define and identify "blocks," "scripts," "simulator," and "the microbit" in PXT.
+-   Write simple PXT programs
+-   Describe what simple PXT programs do without executing the code
 
 ## Materials/Preparation
 
--   [Lab 1.1 handout](lab_11.md) (Welcome to SNAP!) ([Download in Word](https://github.com/TEALS-IntroCS/introduction-to-computer-science-principles/raw/master/Unit%201%20Word/Lab%201.1%20Welcome%20To%20SNAP.docx)) ([Link to PDF](https://github.com/TEALS-IntroCS/introduction-to-computer-science-principles/raw/master/Unit%201%20PDF/Lab%201.1%20Welcome%20To%20SNAP.pdf))
+-   [Lab 1.1 handout](lab_11.md) (Welcome to PXT!)
 
--   Ensure that all classroom computers can access <http://snap.berkeley.edu/run>.
+-   Ensure that all classroom computers can access <https://pxt.microbit.org/>.
 -   Read through the lab so that you are familiar with the requirements and can assist students as needed
 
 ## Pacing Guide
@@ -24,7 +24,7 @@ Students will be able to...
 | 5 minutes  | Welcome, attendance, bell work, announcements |
 | 10 minutes | Introductory discussion                       |
 | 10 minutes | Lab walkthrough                               |
-| 20 minutes | "Welcome to SNAP!" Lab activity               |
+| 20 minutes | "Welcome to PXT!" Lab activity               |
 | 10 minutes | Demonstrate turn-in procedures and wrap-up    |
 | _Day 2_    |                                               |
 | 5 minutes  | Welcome, attendance, bell work, announcements |
