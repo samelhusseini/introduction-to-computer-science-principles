@@ -1,7 +1,7 @@
 {
     "variables": [
         "platform": "PXT",
-        "board": "micro:bit",
+        "board": "microbit",
         "website": "https://pxt.microbit.org"
     ],
     "plugins": [
