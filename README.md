@@ -19,7 +19,7 @@ This curriculum advocates a "hands-on" learning approach in which students' prim
 Because this curriculum was designed to be used in a wide variety of classrooms, we have made as few assumptions as possible.  In particular, the curriculum does not depend on any specific technologies or resources in the classroom other than computers with reliable internet access.  This curriculum is also designed without any student homework assignment, as not all classes will have students who can reliably access a computer with internet access at home.  For classes where home computer access is not an issue, some amount of lab work can be reassigned as homework.
 
 ###Resources
-This curriculum is designed for use with {{book.organization}}'s {{book.platform}}! A programming language designed by {{book.organization}}. {{book.platform}} is a visual programming language designed to allow students to focus on concepts and skills rather than syntax when learning to program.  The following resources are available to support use of {{book.platform}} in this curriculum:
+This curriculum is designed for use with {{book.platformorganization}}'s {{book.platform}}! A programming language designed by {{book.platformorganization}}. {{book.platform}} is a visual programming language designed to allow students to focus on concepts and skills rather than syntax when learning to program.  The following resources are available to support use of {{book.platform}} in this curriculum:
 - The Snap! Reference Manual: http://snap.berkeley.edu/SnapManual.pdf
 - Snap! examples and extensions (including using hardware devices with Snap!): http://snap.berkeley.edu/#help-examples
 - ScratchEd online community for Scratch educators: https://scratch.mit.edu/educators/
