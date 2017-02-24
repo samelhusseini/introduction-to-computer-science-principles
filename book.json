@@ -1,4 +1,9 @@
 {
+    "variables": {
+        "platform": "PXT",
+        "board": "micro:bit",
+        "website": "https://pxt.microbit.org"
+    },
     "plugins": [
         "mathjax",
         "exercises",
