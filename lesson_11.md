@@ -1,5 +1,5 @@
 <!--- REVISED -->
-# Lesson 1.1: Welcome to PXT
+# Lesson 1.1: Welcome to {{config.[platform]}}
 
 ## Learning Objectives
 
