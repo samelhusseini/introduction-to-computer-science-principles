@@ -5,7 +5,7 @@
 
 Students will be able to...
 
--   Animate the {{config.[board]}} display using show led
+-   Animate the {{platform.board}} display using show led
 -   Trigger action in other sprites using broadcasts
 
 ## Materials/Preparation
