@@ -5,7 +5,7 @@
 
 Students will be able to...
 
--   Define and identify "blocks," "scripts," "simulator," and "the microbit" in {{book.platform}}.
+-   Define and identify "blocks," "scripts," "simulator," and "the {{book.board}}" in {{book.platform}}.
 -   Write simple {{book.platform}} programs
 -   Describe what simple {{book.platform}} programs do without executing the code
 
