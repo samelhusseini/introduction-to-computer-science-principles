@@ -13,7 +13,7 @@ Students will be able to...
 
 -   [Lab 1.1 handout](lab_11.md) (Welcome to {{book.platform}}!)
 
--   Ensure that all classroom computers can access <{{config.[website]}}>.
+-   Ensure that all classroom computers can access <{{book.website}}>.
 -   Read through the lab so that you are familiar with the requirements and can assist students as needed
 
 ## Pacing Guide
