@@ -66,7 +66,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
     2.  Activity Walkthrough
 
         -   Work through [Lab 1.1](lab_11.md) up through part 3 (scripts) as a class.
-            -   Point out key aspects of SNAP in each section, including:
+            -   Point out key aspects of PXT in each section, including:
                 -   the sections of the window in part 1
                 -   block shapes and color-coding of categories in part 2
                     -   simply draw attention to the different shapes at this point; their meanings will be covered as each block type is introduced
@@ -77,9 +77,9 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 
     3.  Activity
 
-        -   Individually or in pairs, have students continue working through the ["Welcome to SNAP"](lab_11.md) lab activity. Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
+        -   Individually or in pairs, have students continue working through the ["Welcome to PXT"](lab_11.md) lab activity. Students should answer all questions and complete all activities and turn them in using your chosen turn-in procedure.
             -   For written questions, either have students hand-write answers and turn in the hard copies or set up an electronic submission system of some kind.
-            -   For SNAP programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
+            -   For PXT programs, including the Kaleidoscope program, students should save the program to the cloud and share a link with you
         -   Students should aim to get through at least part 6 by the end of Day 1
         -   Throughout the period, you can pause class to discuss each numbered part of the lab before moving on
             -   Circulate while students are working and try to judge when the majority of the class has finished each part
@@ -96,7 +96,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
             -   Ask questions along the way to assess students' understanding of concepts.  These questions can include:
                 -   Naming the parts of the SNAP window
                 -   Defining "block," "reporter," "script," etc.
-                -   Describing the coordinate system used in SNAP
+                -   Describing the coordinate system used in PXT
     2.  Continue lab
         -   Students should continue working through the lab, aiming to finish all parts by the end of the day
             -   As before, students should turn in all answers using your chosen turn-in procedure.

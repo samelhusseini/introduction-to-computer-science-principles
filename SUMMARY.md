@@ -9,7 +9,7 @@
   * [Lesson 0.4: PXT Self-Portrait](lesson_04.md)
   * [Lab 0.4: Getting to Know You](lab_04.md)
 * [Unit 1: SNAP Basics](unit_1.md)
-  * [Lesson 1.1: Welcome to SNAP](lesson_11.md)
+  * [Lesson 1.1: Welcome to PXT](lesson_11.md)
   * [Lab 1.1: Welcome to SNAP!](lab_11.md)
   * [Lesson 1.2: Building Blocks](lesson_12.md)
   * [Lab 1.2: SNAP Scavenger Hunt](lab_12.md)
