@@ -34,6 +34,12 @@ Students will be able to...
 
 ## Using Zoom Blocks
 
+```sim
+input.onButtonPressed(Button.A, () => {
+basic.showString("Hello!")
+})
+```
+
 {% sim %}
 input.onButtonPressed(Button.A, () => {
     basic.showString("Hello!")
