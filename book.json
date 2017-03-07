@@ -1,6 +1,5 @@
 {
     "variables": {
-        "platformorganization": "Microsoft",
         "platform": "PXT",
         "platformorganization": "Microsoft",
         "board": "micro:bit",
