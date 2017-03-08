@@ -1,11 +1,11 @@
 # Introduction to Computer Science Principles
 
 Welcome to the Intro CS Curriculum with {{book.board}}!
-
+sadasd
 ## About this curriculum
 
 ### License
-This curriculum is licensed under the Creative Commons Attribution Non-Commercial Share-alike License (http://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.
+This curriculum is licensed under the Creative Commons Attribution Non-Commercial Share-alike License (http://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.sadasdsad
 
 ### Attribution
 This curriculum is based on the TEALS Introduction to Computer Science Principles (https://teals-introcs.gitbooks.io/introduction-to-computer-science-principles)
