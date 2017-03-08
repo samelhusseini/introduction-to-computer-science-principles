@@ -1,7 +1,7 @@
 # Introduction to Computer Science Principles
 
 Welcome to the Intro CS Curriculum with {{book.board}}!
-sadasd
+sa
 ## About this curriculum
 
 ### License
